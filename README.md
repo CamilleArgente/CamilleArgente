@@ -1,6 +1,6 @@
 <!-- Typing SVG header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2B90D9&center=true&vCenter=true&width=850&lines=Camille+Argente;Data+Analyst+%7C+Data+Science+Student+%7C+Chatbot+Builder" alt="Typing SVG — Camille Argente" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2B90D9&center=true&vCenter=true&width=850&lines=Camille+Argente;Data+Analyst+%7C+Data+Science+%7C+Chatbot+Builder" alt="Typing SVG — Camille Argente" />
 </p>
 
 ---
