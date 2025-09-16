@@ -72,14 +72,6 @@ I love the *“aha!”* moment when data reveals something new and useful.
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CamilleArgente&show_icons=true&theme=default&hide_title=true" alt="GitHub stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilleArgente&layout=compact" alt="Top languages"/>
-</p>
-
----
 
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/camilleargente)  
